@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on 地球觀察日記</title>
+    <link>http://example.org/tags/</link>
+    <description>Recent content in Tags on 地球觀察日記</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sun, 27 Dec 2020 23:02:08 +0800</lastBuildDate><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>測試</title>
+      <link>http://example.org/tags/%E6%B8%AC%E8%A9%A6/</link>
+      <pubDate>Sun, 27 Dec 2020 23:02:08 +0800</pubDate>
+      
+      <guid>http://example.org/tags/%E6%B8%AC%E8%A9%A6/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
