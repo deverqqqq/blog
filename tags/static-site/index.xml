@@ -1,27 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>使用Hugo建立Blog on 地球觀察日記</title>
-    <link>https://blog.deverqqqq.dev/tags/%E4%BD%BF%E7%94%A8hugo%E5%BB%BA%E7%AB%8Bblog/</link>
-    <description>Recent content in 使用Hugo建立Blog on 地球觀察日記</description>
+    <title>Static Site on 地球觀察日記</title>
+    <link>https://blog.deverqqqq.dev/tags/static-site/</link>
+    <description>Recent content in Static Site on 地球觀察日記</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sat, 09 Jan 2021 13:53:32 +0800</lastBuildDate><atom:link href="https://blog.deverqqqq.dev/tags/%E4%BD%BF%E7%94%A8hugo%E5%BB%BA%E7%AB%8Bblog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Jan 2021 13:53:32 +0800</lastBuildDate><atom:link href="https://blog.deverqqqq.dev/tags/static-site/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>選擇靜態網站建置 Blog 的原因</title>
       <link>https://blog.deverqqqq.dev/post/%E9%81%B8%E6%93%87%E9%9D%9C%E6%85%8B%E7%B6%B2%E7%AB%99%E5%BB%BA%E7%BD%AE-blog-%E7%9A%84%E5%8E%9F%E5%9B%A0/</link>
       <pubDate>Sat, 09 Jan 2021 13:53:32 +0800</pubDate>
       
       <guid>https://blog.deverqqqq.dev/post/%E9%81%B8%E6%93%87%E9%9D%9C%E6%85%8B%E7%B6%B2%E7%AB%99%E5%BB%BA%E7%BD%AE-blog-%E7%9A%84%E5%8E%9F%E5%9B%A0/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>在 Google Domain 購買網域</title>
-      <link>https://blog.deverqqqq.dev/post/%E8%B3%BC%E8%B2%B7google-domain/</link>
-      <pubDate>Wed, 06 Jan 2021 22:07:58 +0800</pubDate>
-      
-      <guid>https://blog.deverqqqq.dev/post/%E8%B3%BC%E8%B2%B7google-domain/</guid>
       <description></description>
     </item>
     
