@@ -6,7 +6,16 @@
     <description>Recent content in static site generator on 地球觀察日記</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Tue, 29 Dec 2020 00:22:37 +0800</lastBuildDate><atom:link href="https://blog.deverqqqq.dev/tags/static-site-generator/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Jan 2021 22:29:20 +0800</lastBuildDate><atom:link href="https://blog.deverqqqq.dev/tags/static-site-generator/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>選擇HUGO的原因</title>
+      <link>https://blog.deverqqqq.dev/post/%E9%81%B8%E6%93%87hugo%E7%9A%84%E5%8E%9F%E5%9B%A0/</link>
+      <pubDate>Sat, 09 Jan 2021 22:29:20 +0800</pubDate>
+      
+      <guid>https://blog.deverqqqq.dev/post/%E9%81%B8%E6%93%87hugo%E7%9A%84%E5%8E%9F%E5%9B%A0/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Tag</title>
       <link>https://blog.deverqqqq.dev/post/tag/</link>
