@@ -6,7 +6,34 @@
     <description>Recent content in Tags on 地球觀察日記</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Tue, 19 Jan 2021 21:18:24 +0800</lastBuildDate><atom:link href="https://blog.deverqqqq.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 03 Feb 2021 21:54:25 +0800</lastBuildDate><atom:link href="https://blog.deverqqqq.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Github Page</title>
+      <link>https://blog.deverqqqq.dev/tags/github-page/</link>
+      <pubDate>Wed, 03 Feb 2021 21:54:25 +0800</pubDate>
+      
+      <guid>https://blog.deverqqqq.dev/tags/github-page/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>https://blog.deverqqqq.dev/tags/hugo/</link>
+      <pubDate>Wed, 03 Feb 2021 21:54:25 +0800</pubDate>
+      
+      <guid>https://blog.deverqqqq.dev/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>使用Hugo建立Blog</title>
+      <link>https://blog.deverqqqq.dev/tags/%E4%BD%BF%E7%94%A8hugo%E5%BB%BA%E7%AB%8Bblog/</link>
+      <pubDate>Wed, 03 Feb 2021 21:54:25 +0800</pubDate>
+      
+      <guid>https://blog.deverqqqq.dev/tags/%E4%BD%BF%E7%94%A8hugo%E5%BB%BA%E7%AB%8Bblog/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>github pages</title>
       <link>https://blog.deverqqqq.dev/tags/github-pages/</link>
@@ -17,29 +44,11 @@
     </item>
     
     <item>
-      <title>使用Hugo建立Blog</title>
-      <link>https://blog.deverqqqq.dev/tags/%E4%BD%BF%E7%94%A8hugo%E5%BB%BA%E7%AB%8Bblog/</link>
-      <pubDate>Tue, 19 Jan 2021 21:18:24 +0800</pubDate>
-      
-      <guid>https://blog.deverqqqq.dev/tags/%E4%BD%BF%E7%94%A8hugo%E5%BB%BA%E7%AB%8Bblog/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>開箱</title>
       <link>https://blog.deverqqqq.dev/tags/%E9%96%8B%E7%AE%B1/</link>
       <pubDate>Sat, 16 Jan 2021 22:18:12 +0800</pubDate>
       
       <guid>https://blog.deverqqqq.dev/tags/%E9%96%8B%E7%AE%B1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hugo</title>
-      <link>https://blog.deverqqqq.dev/tags/hugo/</link>
-      <pubDate>Sat, 09 Jan 2021 22:29:20 +0800</pubDate>
-      
-      <guid>https://blog.deverqqqq.dev/tags/hugo/</guid>
       <description></description>
     </item>
     
@@ -58,15 +67,6 @@
       <pubDate>Sat, 09 Jan 2021 13:53:32 +0800</pubDate>
       
       <guid>https://blog.deverqqqq.dev/tags/static-site/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Github Page</title>
-      <link>https://blog.deverqqqq.dev/tags/github-page/</link>
-      <pubDate>Wed, 06 Jan 2021 22:07:58 +0800</pubDate>
-      
-      <guid>https://blog.deverqqqq.dev/tags/github-page/</guid>
       <description></description>
     </item>
     
