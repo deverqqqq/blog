@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>8bitdo on 地球觀察日記</title>
+    <link>https://blog.deverqqqq.dev/tags/8bitdo/</link>
+    <description>Recent content in 8bitdo on 地球觀察日記</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Thu, 25 Mar 2021 00:44:12 +0800</lastBuildDate><atom:link href="https://blog.deverqqqq.dev/tags/8bitdo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>8bitdo 藍芽轉接器</title>
+      <link>https://blog.deverqqqq.dev/post/8bitdo-%E8%97%8D%E8%8A%BD%E8%BD%89%E6%8E%A5%E5%99%A8/</link>
+      <pubDate>Thu, 25 Mar 2021 00:44:12 +0800</pubDate>
+      
+      <guid>https://blog.deverqqqq.dev/post/8bitdo-%E8%97%8D%E8%8A%BD%E8%BD%89%E6%8E%A5%E5%99%A8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tag</title>
+      <link>https://blog.deverqqqq.dev/post/tag/</link>
+      <pubDate>Tue, 29 Dec 2020 00:22:37 +0800</pubDate>
+      
+      <guid>https://blog.deverqqqq.dev/post/tag/</guid>
+      <description>&lt;p&gt;All Tags Here!&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
