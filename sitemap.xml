@@ -3,6 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://blog.deverqqqq.dev/tags/blog/</loc>
+    <lastmod>2021-05-12T22:47:32+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.deverqqqq.dev/post/</loc>
+    <lastmod>2021-05-12T22:47:32+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.deverqqqq.dev/tags/</loc>
+    <lastmod>2021-05-12T22:47:32+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.deverqqqq.dev/</loc>
+    <lastmod>2021-05-12T22:47:32+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.deverqqqq.dev/post/%E5%A6%82%E4%BD%95%E7%95%B6%E4%B8%80%E5%80%8B%E5%90%88%E6%A0%BC%E7%9A%84programer/</loc>
+    <lastmod>2021-05-12T22:47:32+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blog.deverqqqq.dev/tags/8bitdo/</loc>
     <lastmod>2021-03-25T00:54:21+08:00</lastmod>
   </url>
@@ -10,21 +35,6 @@
   <url>
     <loc>https://blog.deverqqqq.dev/post/8bitdo-%E8%97%8D%E8%8A%BD%E8%BD%89%E6%8E%A5%E5%99%A8/</loc>
     <lastmod>2021-03-25T00:53:32+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.deverqqqq.dev/post/</loc>
-    <lastmod>2021-03-25T00:54:21+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.deverqqqq.dev/tags/</loc>
-    <lastmod>2021-03-25T00:54:21+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.deverqqqq.dev/</loc>
-    <lastmod>2021-03-25T00:54:21+08:00</lastmod>
   </url>
   
   <url>
