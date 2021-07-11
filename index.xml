@@ -6,7 +6,16 @@
     <description>Recent content on 地球觀察日記</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 30 May 2021 10:59:17 +0800</lastBuildDate><atom:link href="https://blog.deverqqqq.dev/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 11 Jul 2021 19:26:13 +0800</lastBuildDate><atom:link href="https://blog.deverqqqq.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>設定hugo內容範本</title>
+      <link>https://blog.deverqqqq.dev/post/%E8%A8%AD%E5%AE%9Ahugo%E5%85%A7%E5%AE%B9%E7%AF%84%E6%9C%AC/</link>
+      <pubDate>Sun, 11 Jul 2021 19:26:13 +0800</pubDate>
+      
+      <guid>https://blog.deverqqqq.dev/post/%E8%A8%AD%E5%AE%9Ahugo%E5%85%A7%E5%AE%B9%E7%AF%84%E6%9C%AC/</guid>
+      <description>&lt;p&gt;本篇介紹我自己設定的 Hugo 內容範本，新增文章內容更方便。&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>個人筆電選購指引(2021緩慢更新中)</title>
       <link>https://blog.deverqqqq.dev/post/%E5%80%8B%E4%BA%BA%E7%AD%86%E9%9B%BB%E9%81%B8%E8%B3%BC%E6%8C%87%E5%BC%952021/</link>
